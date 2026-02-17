@@ -1,0 +1,79 @@
+h1 {
+    color : green;
+}
+
+h2 {
+ color:blueviolet;
+}
+
+h3 {
+    color:black;
+}
+
+h4{
+    color:aqua;
+}
+h5 {
+     color:brown;
+}
+button {
+    color:blue;
+    background-color: blueviolet;
+}
+button {
+    color:darkorange;
+    background-color: aqua;
+}
+
+body {
+    background-color:lightcoral;
+}
+ #heading1{
+    color:chocolate
+ }
+ div{
+    background-color: blue;
+    color:black;
+ }
+  p {
+     text-align: center;
+  }
+  h1{
+    text-align: center;
+    text-decoration: underline;
+  }
+  a {
+text-decoration: none;
+    
+  }
+  h2{
+     font: weight 900px; ;
+  }
+  h3 {
+     font: weight 100px;;
+  }
+   p {
+    font-family: 'Times New Roman';
+  }
+
+  p{
+    font-size: 25px;
+    line-height: normal;
+    text-transform: lowercase;
+  }
+  div{
+    color: burlywood;
+  }
+  h3 {
+    width: 200;
+    height: 50px;
+    background-color:brown;
+    border-width: 3px;
+    border-style: dashed;
+  }
+
+  
+
+ 
+
+   
